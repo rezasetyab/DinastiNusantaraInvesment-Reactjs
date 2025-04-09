@@ -39,7 +39,7 @@ const Main = () => {
           <Carousel/>
         </div>
         <div className="py-5 px-8">
-          <h1 className="font-bold text-[#0A3D62] text-2xl pt-3">Tentang Kami</h1>
+          <h1 className="font-bold text-[#0A3D62] text-2xl pt-3">Tentang REZA</h1>
           <p className="pb-5 pt-3">Dinasti Nusantara Investment (Holding) merupakan sebuah perusahaan yang
             bergerak dalam bidang Financial Engineering, Pengelolaan Investasi, dan
             Pengembangan Bisnis Internasional.</p>
